@@ -1,4 +1,0 @@
----
-aliases:
-  - Alma D'iskasya
----

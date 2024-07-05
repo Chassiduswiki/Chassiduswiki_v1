@@ -1,7 +1,0 @@
----
-aliases:
-  - Parsa
-  - פרסא
----
-
-veil? 

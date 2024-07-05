@@ -1,4 +1,0 @@
----
-aliases:
-  - Lamed Vov Tzadikim
----

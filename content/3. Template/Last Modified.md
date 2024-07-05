@@ -1,1 +1,0 @@
-<% tp.file.cursor_append() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %> <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>

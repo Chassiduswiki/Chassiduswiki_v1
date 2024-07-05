@@ -1,5 +1,0 @@
----
-aliases:
-  - Sechel
-  - שכל
----

@@ -1,5 +1,0 @@
----
-aliases:
-  - Yechidah
-  - יחידה
----

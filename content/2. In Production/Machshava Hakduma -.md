@@ -1,4 +1,0 @@
----
-aliases:
-  - Machshava Hakduma
----

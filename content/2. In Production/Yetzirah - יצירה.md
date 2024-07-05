@@ -1,5 +1,0 @@
----
-aliases:
-  - Yetzirah
-  - יצירה
----
