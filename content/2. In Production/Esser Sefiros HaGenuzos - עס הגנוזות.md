@@ -1,6 +1,6 @@
 ---
 aliases:
   - Esser Sefiros HaGenuzos
-  - ע"ס הגנוזות
+  - ע''ס הגנוזות
   - עשר ספירות הגנוזות
 ---
