@@ -1,0 +1,5 @@
+---
+aliases:
+  - חח״ן
+  - ChaChaN
+---

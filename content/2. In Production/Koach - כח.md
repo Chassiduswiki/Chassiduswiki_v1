@@ -1,0 +1,5 @@
+---
+aliases:
+  - Koach
+  - Kochos
+---

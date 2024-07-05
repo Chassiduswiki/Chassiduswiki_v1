@@ -1,0 +1,12 @@
+// cards.json
+[
+    {
+      "title": "Card 1",
+      "content": "Content for card 1"
+    },
+    {
+      "title": "Card 2",
+      "content": "Content for card 2"
+    },
+    // ...
+  ]

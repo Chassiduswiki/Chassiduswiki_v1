@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"1ea2922f69d2b90e","type":"file","file":"Concepts in Chassidus/Sefiros/Gevurah - גבורה.md","x":-1280,"y":295,"width":400,"height":400},
+		{"id":"bbeb20ade3fbfbf0","type":"file","file":"2. In Production/Hod - הוד.md","x":-1280,"y":1360,"width":400,"height":400},
+		{"id":"5f3742f2d8e60b5a","type":"file","file":"Concepts in Chassidus/Sefiros/Binah - בינה.md","x":-1280,"y":-720,"width":400,"height":200},
+		{"id":"67ec6eea6ea196b4","type":"file","file":"Concepts in Chassidus/Tevunah - תבונה.md","x":-1280,"y":-520,"width":400,"height":200},
+		{"id":"9616aa0ffb16b5c1","type":"file","file":"Concepts in Chassidus/Sefiros/Chochmah - חכמה.md","x":1120,"y":-720,"width":400,"height":400},
+		{"id":"4490d79899c0c704","type":"file","file":"2. In Production/Av - אב.md","x":1520,"y":-720,"width":240,"height":400},
+		{"id":"7bf8312869f6e263","type":"file","file":"Concepts in Chassidus/Sefiros/Chesed - חסד.md","x":1120,"y":295,"width":400,"height":400},
+		{"id":"2b66344811727b46","type":"file","file":"Concepts in Chassidus/Sefiros/Netzach - נצח.md","x":1120,"y":1360,"width":400,"height":400},
+		{"id":"97f758941cd2c565","type":"file","file":"2. In Production/Sechel - שכל.md","x":-3200,"y":-720,"width":400,"height":1015},
+		{"id":"830fa9642d062115","type":"file","file":"2. In Production/Mochin - מוחין.md","x":-3600,"y":-720,"width":400,"height":1015},
+		{"id":"ecd52ec7d7bebae1","type":"file","file":"2. In Production/Middos - מידות.md","x":-3600,"y":295,"width":800,"height":1865},
+		{"id":"55c451b83c3be33e","type":"file","file":"2. In Production/Z'eir Anpin - זעיר אנפין.md","x":-2640,"y":295,"width":560,"height":1865},
+		{"id":"3dadbb045281ab29","type":"file","file":"2. In Production/Imma - אימה.md","x":-880,"y":-720,"width":240,"height":400},
+		{"id":"0b369756c0d3d49e","type":"file","file":"2. In Production/Yesod - יסוד.md","x":-320,"y":1760,"width":400,"height":400},
+		{"id":"0292d05aaf4fce17","type":"file","file":"Concepts in Chassidus/Sefiros/Da'as - דעת.md","x":-320,"y":-212,"width":400,"height":400},
+		{"id":"0201a69f7f23e9dd","type":"file","file":"Concepts in Chassidus/Sefiros/Tiferes - תפארת.md","x":-320,"y":880,"width":400,"height":400},
+		{"id":"08023f0921038ecc","type":"file","file":"2. In Production/Rachamim - רחמים.md","x":1120,"y":760,"width":400,"height":120},
+		{"id":"69ce8ae619e0325d","type":"file","file":"Concepts in Chassidus/Sefiros/Malchus - מלכות.md","x":-320,"y":2800,"width":400,"height":400},
+		{"id":"08d4c96473b3dca4","type":"text","text":"Kesser\n","x":-1280,"y":-1620,"width":160,"height":420},
+		{"id":"9b218109551dec38","type":"text","text":"Atik","x":-1120,"y":-1620,"width":160,"height":210}
+	],
+	"edges":[
+		{"id":"f064fbca463de231","fromNode":"7bf8312869f6e263","fromSide":"bottom","toNode":"08023f0921038ecc","toSide":"top","color":"5"},
+		{"id":"199250f60711894b","fromNode":"4490d79899c0c704","fromSide":"bottom","toNode":"7bf8312869f6e263","toSide":"top","color":"5"}
+	]
+}

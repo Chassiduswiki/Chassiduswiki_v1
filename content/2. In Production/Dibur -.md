@@ -1,0 +1,5 @@
+---
+aliases:
+  - Dibur
+  - Speech
+---
