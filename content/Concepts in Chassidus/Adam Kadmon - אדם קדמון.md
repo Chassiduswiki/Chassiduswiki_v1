@@ -1,9 +1,9 @@
 ---
 aliases:
-  - A"k
+  - A''k
   - Adam Kadmon
   - אדם קדמון
-  - א"ק
+  - א''ק
 cssclasses:
   - list-cards
   - list-cards-mobile-full
