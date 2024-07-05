@@ -3,7 +3,7 @@ aliases:
   - ספירות
   - Sefiros
   - Sefirah
-  - ע"ס
+  - ע''ס
   - עשר ספירות
   - The Ten Sefiros
 ---
